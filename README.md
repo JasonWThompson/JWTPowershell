@@ -1,2 +1,2 @@
 # JWTPowershell
-A collection of Powershell functions that make my life easier
+A Powershell Module that makes working within Powershell easier.
