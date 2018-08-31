@@ -1,4 +1,4 @@
-# Module base. Provides functionality to manage VSphere VMs
+# Module base.
 
 # This module script was adapted from 
 # https://github.com/RamblingCookieMonster/PSStackExchange/blob/db1277453374cb16684b35cf93a8f5c97288c41f/PSStackExchange/PSStackExchange.psm1
